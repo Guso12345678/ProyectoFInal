@@ -1,3 +1,3 @@
 # ProyectoFInal
-Guzmán Ignacio Pérez Ibarz 
-Jaime Pedrosa Comino
+# Guzmán Ignacio Pérez Ibarz.
+# Jaime Pedrosa Comino.
